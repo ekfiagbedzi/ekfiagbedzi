@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ekfiagbedzi/ekfiagbedzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emmanuel Kwasi Fiagbedzi and I am a PhD candidate in Cell Biology at the University of Edinburgh. Over the past few years, I have developed a passion for AI/Data Engineering eventhough I have a background in the biological sciences because I realised that I love to automtate tasks to solve problems. Due to this, I enrolled in an AI engineering course at the AICore, where I am learning how to develop AI systems, which includes but not limited to deep learning, data processing, data acquisition, data cleaning and manipulation, CI/CD and cloud engineering.
 
-Here are some ideas to get you started:
+My main skill sets include;
+* Python
+* R
+* Machine Learning
+* Deep Learning (Pytorch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This page contains all the projects I have worked on alone as well as my collaborations
+Don't hesistate to contact if you want to get in touch.
+
+Email: ekfiagbedzi@gmail.com
+Linkedin: 
