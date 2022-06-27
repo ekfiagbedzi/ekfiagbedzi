@@ -8,7 +8,7 @@ My main skill sets include;
 * **Machine Learning**
 * **Deep Learning (Pytorch)**
 * **Amazon Web Services: S3, RDS, ECS**
-* **Structured Query Language**
+* **Structured Query Language (SQL)**
 
 This page contains all the projects I have worked on alone as well as my collaborations
 Don't hesistate to contact if you want to get in touch.
