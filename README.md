@@ -13,6 +13,6 @@ My main skill sets include;
 This page contains all the projects I have worked on alone as well as my collaborations
 Don't hesistate to contact if you want to get in touch.
 
-* Email me : ekfiagbedzi@gmail.com
-* Contact me on Linkedin: https://www.linkedin.com/in/emmanuel-kwasi-fiagbedzi-ba9184110/
-* Tweet @ me: @JustManuelle
+* Email : ekfiagbedzi@gmail.com
+* Linkedin: https://www.linkedin.com/in/emmanuel-kwasi-fiagbedzi-ba9184110/
+* Twitter: @JustManuelle
