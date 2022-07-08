@@ -13,5 +13,5 @@ This page contains all the projects I have worked on alone as well as my collabo
 Don't hesistate to contact if you want to get in touch.
 
 * Email : ekfiagbedzi@gmail.com
-* Linkedin: https://www.linkedin.com/in/emmanuel-kwasi-fiagbedzi-ba9184110/
+* Linkedin: Emmanuel Fiagbedzi Linkedin
 * Twitter: @JustManuelle
