@@ -10,7 +10,7 @@ My main skill sets include;
 * **Structured Query Language (SQL)**
 
 This page contains all the projects I have worked on alone as well as my collaborations
-Don't hesistate to contact if you want to get in touch.
+Please ontact if you want to get in touch.
 
 * Email : ekfiagbedzi@gmail.com
 * Linkedin: Emmanuel Fiagbedzi Linkedin
