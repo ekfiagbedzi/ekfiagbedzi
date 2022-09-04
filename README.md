@@ -7,7 +7,7 @@ My main skill sets include;
 * **R**
 * **Machine Learning**
 * **Deep Learning (Pytorch)**
-* **Continuous Integration / Continuous Deployment Pipeline CI/CD Pipeline**
+* **CI/CD Pipeline**
 
 This page contains all the projects I have worked on alone as well as my collaborations
 Please ontact if you want to get in touch.
