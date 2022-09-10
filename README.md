@@ -4,7 +4,7 @@ My name is Emmanuel Fiagbedzi and I am a PhD candidate in Cell Biology at the Un
 
 My main skill sets include;
 * **Python**
-* **R**
+* **R programming**
 * **Machine Learning**
 * **Deep Learning (Pytorch)**
 * **CI/CD Pipeline**
