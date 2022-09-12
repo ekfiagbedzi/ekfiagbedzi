@@ -6,7 +6,7 @@ My main skill sets include;
 * **Python**
 * **R programming**
 * **Machine Learning**
-* **Deep Learning (Pytorch)**
+* **Deep Learning**
 * **CI/CD Pipeline**
 
 This page contains all the projects I have worked on alone as well as my collaborations
