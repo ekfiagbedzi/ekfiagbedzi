@@ -8,6 +8,7 @@ My main skill sets include;
 * **Machine Learning**
 * **Deep Learning**
 * **CI/CD Pipeline**
+* **Cloud Engineering**
 
 This page contains all the projects I have worked on alone as well as my collaborations
 Please ontact if you want to get in touch.
