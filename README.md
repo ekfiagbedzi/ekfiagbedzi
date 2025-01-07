@@ -1,6 +1,7 @@
 # <Welcome to  my GitHub page 👋>
 
-My name is Emmanuel Fiagbedzi and I am a PhD candidate in Cell Biology at the University of Edinburgh. Recently, I have developed a passion for AI Engineering eventhough I have a background in the biological sciences because I realised that I love to automtate tasks to solve problems. Due to this, I enrolled in an AI engineering course at the AICore, where I am learning how to develop AI systems, which includes but not limited to deep learning, data processing, data acquisition, data cleaning and manipulation and cloud engineering.
+My name is Emmanuel Fiagbedzi and I am a Machine Learning Engineer at the Straquadanio lab, University of Edinburgh. In my current role I leverage advanced frameworks such as PyTorch and Nextflow to design generative AI models that capture the essential features of the protein alpha-galactosidase—an enzyme implicated in Fabry’s disease. These models compactly and effectively represent protein sequences, enabling the generation of new proteins that preserve or enhance the functional and structural properties of the original enzyme, such as improved stability or specific binding affinities. This work aims to advance enzyme replacement therapies for Fabry’s disease, demonstrating my ability to apply cutting-edge AI techniques to meaningful scientific challenges.
+
 
 Skills;
 * **Python**
@@ -9,8 +10,8 @@ Skills;
 * **Deep Learning**
 * **CI/CD Pipeline**
 
-This page contains all the projects I have worked on alone as well as my collaborations
-Please ontact if you want to get in touch.
+This page contains all the public repos of the projects I have worked on alone as well as my collaborations
+Please contact if you want to get in touch.
 
 * Email : ekfiagbedzi@gmail.com
 * Linkedin: Emmanuel Fiagbedzi
