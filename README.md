@@ -15,4 +15,3 @@ Please contact if you want to get in touch.
 
 * Email : ekfiagbedzi@gmail.com
 * Linkedin: Emmanuel Fiagbedzi
-* Twitter: @JustManuelle
