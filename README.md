@@ -11,7 +11,7 @@ Skills;
 * **CI/CD Pipeline**
 
 This page contains all the public repos of the projects I have worked on alone as well as my collaborations
-Please contact if you want to get in touch.
+Please contact if you want to get in touch about private repos of projects.
 
 * Email : ekfiagbedzi@gmail.com
 * Linkedin: Emmanuel Fiagbedzi
