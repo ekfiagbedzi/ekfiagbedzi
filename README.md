@@ -6,7 +6,7 @@ My name is Emmanuel Fiagbedzi and I am a Machine Learning Engineer at the Straqu
 Skills;
 * **Python**
 * **Machine Learning**
-* **Deep Learning**
+* **Generative AI**
 * **Proteomics**
 * **CI/CD Pipeline**
 
