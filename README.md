@@ -8,7 +8,6 @@ Skills;
 * **Machine Learning**
 * **Generative AI**
 * **Proteomics**
-* **Amazon Web Services**
 
 This page contains all the public repos of the projects I have worked on as well as my collaborations
 Please contact if you want to get in touch about private repos of projects.
