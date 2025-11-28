@@ -1,16 +1,24 @@
 # <Welcome to  my GitHub page 👋>
 
-My name is Emmanuel Fiagbedzi and I am a Machine Learning Engineer at the Centre for Engineering Biology, University of Edinburgh. In my current role I leverage advanced technilogies such as PyTorch to design generative AI models that capture the essential features of the protein alpha-galactosidase—an enzyme implicated in Fabry’s disease. These models compactly and effectively represent protein sequences, enabling the generation of new proteins that preserve or enhance the functional and structural properties of the original enzyme, such as improved stability or specific binding affinities. This work aims to advance enzyme replacement therapies for Fabry’s disease, demonstrating my ability to apply cutting-edge AI techniques to meaningful scientific challenges.
+I’m Emmanuel Fiagbedzi, a Machine Learning Engineer with experience developing end-to-end ML and generative AI systems for protein engineering, structural biology, and drug-discovery applications.
+
+I currently work as a Computational Biologist (AI Models) at GSK Unlimited, where I design, fine-tune and deploy foundation models, transformer architectures, and generative AI methods for protein interaction modelling and structure-based discovery workflows. My role includes adapting and extending protein-structure ML models, building pipelines for large-scale PPI analysis, and delivering optimized models and datasets to GCP Vertex AI and BigQuery environments.
 
 
-Skills;
-* **Python**
-* **Machine Learning**
-* **Generative AI**
-* **Proteomics**
+Skills
 
-This page contains all the public repos of the projects I have worked on as well as my collaborations
-Please contact if you want to get in touch about private repos of projects.
+**Programming:** Python, PyTorch
+
+**Machine Learning:** Transformers, PLMs
+
+**Cloud & DevOps:** GCP (VertexAI, BigQuery), Docker, Singularity, HPC/SLURM
+
+**Bioinformatics:** AlphaFold, Boltz, PyMOL, Biopython
+
+**Software Development:** Git/GitHub, Bash, NextFlow
+
+This GitHub contains public repositories from my industrial work, academic research, and collaborations.
+Feel free to reach out regarding private repositories or research discussions.
 
 * Email : ekfiagbedzi@gmail.com
 * Linkedin: Emmanuel Fiagbedzi
